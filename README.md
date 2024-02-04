@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suvam Agrawal</h1>
 <h3 align="center">A passionate Mern Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/1c6aea3b0c2b0dc3d57bfcb1f3eec6c64ad0a9926645bd2518f5d77dea266f8d/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30392f3263373738655f38396430396333383062376234613039626364626362333239633437333462335f6d76322e676966">
-
 - 🌱 I’m currently learning **React Js**
 
 - 💬 Ask me about **MERN , DSA**
