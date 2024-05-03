@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suvam Agrawal</h1>
 <h3 align="center">A passionate Mern Stack developer from India</h3>
-- 🌱 I’m currently learning React Js
+- 🌱 I’m currently exploring and learning Backend development.
 
 - 💬 Ask me about **MERN , DSA**
 
