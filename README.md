@@ -32,5 +32,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suvam3456&" alt="suvam3456" /></p>
 
-[![Your Name's github activity graph](https://activity-graph.herokuapp.com/graph?username=suvam3456&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
