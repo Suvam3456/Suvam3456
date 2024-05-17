@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suvam Agrawal</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Suvam Agrawal
 <h3 align="center">A passionate Mern Stack developer from India</h3>
 <img align="right" height="280" src="https://media4.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=ecf05e47cx5k910neskbourrmkb0f33q6ngvv6ocakgw8sec&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
