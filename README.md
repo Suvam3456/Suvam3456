@@ -9,7 +9,7 @@
 
 - 🌍  I'm based in Bangalore
 
--  🤝I'm open to collaborating on Web Projects
+-  🤝I'm open to collaborating on Projects
 
 - 📫 To reach me : **agrawalsuvam101@gmail.com**
 
