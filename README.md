@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suvam Agrawal</h1>
-<h3 align="center">A passionate Mern Stack developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Suvam3456&label=Profile%20views&color=0e75b6&style=flat" alt="Suvam3456" /> </p>
 <img align="right" height="280" src="https://media4.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=ecf05e47cx5k910neskbourrmkb0f33q6ngvv6ocakgw8sec&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
