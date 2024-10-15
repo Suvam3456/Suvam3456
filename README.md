@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Suvam3456&label=Profile%20views&color=0e75b6&style=flat" alt="Suvam3456" /> </p>
 <img align="right" height="280" src="https://media4.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=ecf05e47cx5k910neskbourrmkb0f33q6ngvv6ocakgw8sec&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
-- 🌱 I’m currently exploring and learning Backend development.
+- 🌱 I’m currently exploring Devops and Backend development.
 
 - 💬 Ask me about **MERN , DSA**
 
